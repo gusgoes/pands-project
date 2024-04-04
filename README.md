@@ -1,6 +1,6 @@
-# FILEPATH
+# Summary
+***
 
-"""
 Iris dataset will be load, analyzed and used to code this project.
 
 As one of the most popular dataset for begginers in statistics and code, The iris datase, contains measurements of four chracteristics as:
@@ -21,8 +21,6 @@ The goal of this code is to load the dataset, perform some basic analysis, and v
 Author: Gustavo Fernandes
 
 Date: 04/04/2024
-"""
 
-# Code goes here...
-# pands-project
-Final Project - PROGRAMMING AND SCRIPTING - 2024/1
+
+# Final Project - PROGRAMMING AND SCRIPTING - 2024/1
