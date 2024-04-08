@@ -21,6 +21,13 @@ The goal of this code is to load the dataset, perform some basic analysis, and v
 Author: Gustavo Fernandes
 
 Date: 04/04/2024
+***
+# Resource
 
+https://vlegalwaymayo.atu.ie/course/view.php?id=8088
+[Co-Pilot]
+https://archive.ics.uci.edu/dataset/53/iris
+https://www.geeksforgeeks.org/python-basics-of-pandas-using-iris-dataset/
 
 # Final Project - PROGRAMMING AND SCRIPTING - 2024/1
+***
