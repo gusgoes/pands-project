@@ -1,4 +1,4 @@
-# Summary
+# A STUDY ON " THE IRIS FLOWER DATA SET "
 ***
 
 Iris dataset will be load, analyzed and used to code this project.
